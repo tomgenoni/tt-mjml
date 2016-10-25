@@ -1,0 +1,11 @@
+<mj-section>
+    <mj-column>
+        <mj-text mj-class="footer text">
+            <b>&copy;2016 Thumbtack</b><br />360 9th St., San Francisco, CA 94103
+        </mj-text>
+        <mj-text mj-class="footer text">
+            <a href="#" class="linkDark">Help Center</a>
+        </mj-text>
+        <mj-image width="50" alt="Thumbtack" src="http://cdn.atomeye.com/i/footer-tack.png" />
+    </mj-column>
+</mj-section>

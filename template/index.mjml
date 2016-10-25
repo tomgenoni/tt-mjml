@@ -1,0 +1,110 @@
+<mjml>
+    <mj-include path="./partial/head" />
+    <mj-body>
+        <mj-container background-color="#f4f4f4">
+            <mj-include path="./partial/header" />
+            <mj-section mj-class="background--brand">
+                <mj-column>
+                    <mj-text mj-class="headline">
+                        Sean G. hired you!
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section mj-class="background--white" padding="20px 20px 0 20px">
+                <mj-group>
+                    <mj-column>
+                        <mj-image width="auto" src="http://cdn.atomeye.com/i/square.jpg" padding="0 10px 10px 0" />
+                        <mj-text align="center" padding="0 10px 0 0">
+                            Working
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-image width="auto" src="http://cdn.atomeye.com/i/square.jpg" padding="0 0 10px 10px" />
+                        <mj-text align="center" padding="0 0 0 10px">
+                            Recording
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section mj-class="background--white" padding="20px 20px 0 20px">
+                <mj-group>
+                    <mj-column>
+                        <mj-image width="auto" src="http://cdn.atomeye.com/i/square.jpg" padding="0 10px 10px 0" />
+                        <mj-text align="center" padding="0 10px 0 0">
+                            Working
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-image width="auto" src="http://cdn.atomeye.com/i/square.jpg" padding="0 0 10px 10px" />
+                        <mj-text align="center" padding="0 0 0 10px">
+                            Recording
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+            </mj-section>
+            <mj-section mj-class="background--white" padding="20px">
+                <mj-group>
+                    <mj-column>
+                        <mj-text align="center" padding-right="10px">
+                            <h2>0/5</h2>
+                            <p>Write less code, save time and code more efficiently with MJML’s semantic syntax.</p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" padding="0 10px">
+                            <h2>23h 58m</h2>
+                            <p>MJML is responsive by design on most-popular email clients, even Outlook.</p>
+                        </mj-text>
+                    </mj-column>
+                    <mj-column>
+                        <mj-text align="center" padding-left="10px">
+                            <h2>2</h2>
+                            <p>MJML is responsive by design on most-popular email clients, even Outlook.</p>
+                        </mj-text>
+                    </mj-column>
+                </mj-group>
+
+            </mj-section>
+            <mj-section mj-class="background--white" padding="20px">
+                <mj-column>
+
+                    <mj-text mj-class="label" align="left">
+                        Items needed
+                    </mj-text>
+                    <mj-text mj-class="text" align="left">
+                        Excepteur sint occaecat cupidatat non proident
+                    </mj-text>
+
+                    <mj-divider border-width="1px" border-color="#ddd" padding="0 0 10px 0" />
+
+                    <mj-text mj-class="label" align="left">
+                        Items needed
+                    </mj-text>
+                    <mj-text mj-class="text" align="left">
+                        Sint occaecat cupidatat non proident
+                    </mj-text>
+
+                    <mj-divider border-width="1px" border-color="#ddd" padding="0 0 10px 0" />
+
+                    <mj-text mj-class="text">
+                        This irure dolor in <a href="#">adsf</a> reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </mj-text>
+                    <mj-text mj-class="text">
+                        A irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </mj-text>
+                    <mj-button mj-class="button" href="http://thumbtack.com">
+                        View Customer Quote
+                    </mj-button>
+
+                    <mj-divider border-width="1px" border-color="#ddd" padding="20px 0 30px 0" />
+
+                    <mj-text mj-class="text">
+                        A irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </mj-text>
+
+                </mj-column>
+            </mj-section>
+            <mj-include path="./partial/footer" />
+        </mj-container>
+    </mj-body>
+</mjml>

@@ -1,0 +1,5 @@
+<mj-section>
+    <mj-column>
+        <mj-image width="150" alt="Thumbtack Logo" src="http://cdn.atomeye.com/i/logo.png" />
+    </mj-column>
+</mj-section>

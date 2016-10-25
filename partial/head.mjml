@@ -1,0 +1,22 @@
+<mj-head>
+    <mj-title>Sean G. hired you!</mj-title>
+    <mj-font name="Avenir" href="http://cdn.atomeye.com/css/font.css" />
+    <mj-style>
+        <mj-include path="./partial/style" />
+    </mj-style>
+    <mj-attributes>
+        <mj-all font-family="Avenir, Helvetica" color="#999" font-size="15px"/>
+
+        <mj-text padding="0" />
+
+        <mj-class name="background--brand" background-color="#f27802"/>
+        <mj-class name="background--white" background-color="white"/>
+
+        <mj-class name="headline" color="white" align="center" font-size="22px" font-weight="500"/>
+        <mj-class name="text" padding="0 0 10px 0" align="center"/>
+        <mj-class name="footer" align="center" color="#555"/>
+        <mj-class name="label" align="center" color="#999" font-size: "14px" font-weight="500"/>
+
+        <mj-class name="button" background-color="#3f93f3" color="white" />
+    </mj-attributes>
+</mj-head>
