@@ -1,0 +1,25 @@
+<mjml>
+    <mj-include path="./partial/head" />
+    <mj-body>
+        <mj-container background-color="#f4f4f4">
+            <mj-include path="./partial/header" />
+            <mj-section mj-class="background--brand">
+                <mj-column>
+                    <mj-text mj-class="headline">
+                        Sean G. hired you!
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-section mj-class="background--white" padding="20px">
+                <mj-column>
+                    <mj-text mj-class="text">
+                        If you haven’t already, please contact contact <a href="#">Sean G.</a> to confirm the details of the “Need DJ” request and get started.                    </mj-text>
+                    <mj-text mj-class="text">
+                        Remember to ask Sean G. to leave you a review after the work is complete to increase your chances of getting hired in the future.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+            <mj-include path="./partial/footer" />
+        </mj-container>
+    </mj-body>
+</mjml>
