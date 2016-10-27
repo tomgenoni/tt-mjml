@@ -19,7 +19,7 @@ More information on the [mjml download page](https://mjml.io/download)
 To convert mjml to HTML:
 
 ```
-mjml -r filename.mjml -o filename.html
+mjml -r template/filename.mjml -o dist/filename.html
 ```
 
 See [mjml documentation](https://mjml.io/documentation/) for available tags and options.
