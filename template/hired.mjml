@@ -6,7 +6,7 @@
             <mj-section mj-class="background--brand">
                 <mj-column>
                     <mj-text mj-class="headline">
-                        Sean G. hired you!
+                        {{ username }} hired you!
                     </mj-text>
                 </mj-column>
             </mj-section>
